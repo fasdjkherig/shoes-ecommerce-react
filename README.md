@@ -19,8 +19,8 @@
 - **redux toolkit**
 - **react-hot-toast**
 - **heroicons**
-- **react-splide*
-- **lodash*
+- **react-splide**
+- **lodash**
 - **vite**
 
 #### Demo:
